@@ -1,0 +1,22 @@
+{
+  "name": "teaispower",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irxhmram46ls/teaispower.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irxhmram46ls/teaispower/issues"
+  },
+  "homepage": "https://github.com/irxhmram46ls/teaispower#readme"
+}
